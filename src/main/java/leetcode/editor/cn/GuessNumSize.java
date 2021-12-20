@@ -1,5 +1,8 @@
+package leetcode.editor.cn;
+
 /**
  * 375 猜数字大小
+ *
  * @author xiefa
  **/
 public class GuessNumSize {
